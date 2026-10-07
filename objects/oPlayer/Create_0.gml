@@ -49,6 +49,7 @@ SCORE = 0
 ////////
 
 // some game setup stuff
+window_set_caption("game1")
 game_set_speed(60, gamespeed_fps)
 
 // player setup
