@@ -1,0 +1,18 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"fFont","order":13,"path":"fonts/fFont/fFont.yy",},
+    {"name":"oBullet","order":10,"path":"objects/oBullet/oBullet.yy",},
+    {"name":"oGun","order":8,"path":"objects/oGun/oGun.yy",},
+    {"name":"oPlayer","order":2,"path":"objects/oPlayer/oPlayer.yy",},
+    {"name":"oRockMed","order":6,"path":"objects/oRockMed/oRockMed.yy",},
+    {"name":"oRockSmall","order":5,"path":"objects/oRockSmall/oRockSmall.yy",},
+    {"name":"oText","order":12,"path":"objects/oText/oText.yy",},
+    {"name":"sBullet","order":9,"path":"sprites/sBullet/sBullet.yy",},
+    {"name":"sGun","order":7,"path":"sprites/sGun/sGun.yy",},
+    {"name":"sPlayer","order":1,"path":"sprites/sPlayer/sPlayer.yy",},
+    {"name":"sRockMed","order":3,"path":"sprites/sRockMed/sRockMed.yy",},
+    {"name":"sRockSmall","order":4,"path":"sprites/sRockSmall/sRockSmall.yy",},
+    {"name":"sText","order":11,"path":"sprites/sText/sText.yy",},
+  ],
+}
